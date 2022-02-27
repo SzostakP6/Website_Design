@@ -1,0 +1,140 @@
+body {
+    display: block;
+    margin: 0 10%;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    border: 2px solid rgba(65, 65, 66, 0.281);
+    margin: 10px auto;
+    padding: 10px 10px;
+}
+
+h1 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+.color_container {
+    width: 100%;
+}
+
+.color_panel {
+    display: inline-block;
+    text-align: center;
+    margin: 10px auto;
+    width: 32%;
+    min-height: 100px;
+}
+
+.brown {
+    background-color: #1d0f0b;
+    color: #fff;
+}
+
+.light_brown {
+    background-color: #796d5d;
+    color: #fff;
+}
+
+.khaki {
+    background-color: #baae97;
+}
+
+.light_grey {
+    background-color: #a6a7a5;
+    color: #fff;
+}
+
+.grey {
+    background-color: #615e59;
+}
+
+.forest_green {
+    background-color: #6d6e41;
+}
+
+.font_container {
+    width: 100%;
+}
+
+.font_panel {
+    display: inline-block;
+    text-align: center;
+    width: 32%;
+    margin: 10px auto;
+    min-height: 150px;
+}
+
+.lato_bold {
+    font-weight: bold;
+}
+
+.lato_underline {
+    text-decoration: underline;
+}
+
+.lato_italic {
+    font-style: italic;
+}
+
+.overpass_bold {
+    font-family: 'Overpass', sans-serif;
+    font-weight: bold;
+}
+
+.overpass_regular {
+    font-family: 'Overpass', sans-serif;
+}
+
+.overpass_underline {
+    font-family: 'Overpass', sans-serif;
+    text-decoration: underline;
+}
+
+.overpass_italic {
+    font-family: 'Overpass', sans-serif;
+    font-style: italic;
+}
+
+.comfortaa_bold {
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+}
+
+.comfortaa_regular {
+    font-family: 'Comfortaa', cursive;
+}
+
+.comfortaa_underline {
+    font-family: 'Comfortaa', cursive;
+    text-decoration: underline;
+}
+
+.comfortaa_light {
+    font-family: 'Comfortaa', cursive;
+    font-size: 300;
+}
+
+.text_styles_container {
+    width: 100%;
+}
+
+.text_panel {
+    display: inline-block;
+    width: 32%;
+    min-height: 200px;
+    margin: 10px auto;
+}
